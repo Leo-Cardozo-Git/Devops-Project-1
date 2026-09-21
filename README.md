@@ -1,2 +1,2 @@
 # Devops-Project-1
-Projeto de IaC + Aplicação em Docker
+Projeto Aplicação em Docker rodando em EC2
